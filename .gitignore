@@ -1,0 +1,12 @@
+.*
+!.gitignore
+
+*.pyc
+__pycache__
+
+analytics
+datasets
+hist
+models
+Papers
+tmp

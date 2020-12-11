@@ -1,0 +1,8 @@
+elephas
+yfinance
+pyspark
+matplotlib
+numpy
+seaborn
+pandas
+tqdm
