@@ -10,3 +10,5 @@ hist
 models
 Papers
 tmp
+
+!datasets/Stocks/stocks.csv
