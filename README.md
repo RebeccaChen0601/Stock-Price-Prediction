@@ -1,5 +1,9 @@
 # CS451 Project: Tweet Stock Predictor
 
+## Slides Demo
+
+More details including graphs and methodologies are [here](https://drive.google.com/file/d/1wMozGMXrKjxTFb80iYxkI3ejBylrnpN1/view?usp=sharing). 
+
 ## Dataset
 
 The [Chirps Dataset](https://github.com/vered1986/Chirps/tree/master/resource) must be available at `datasets/Chirps`.
